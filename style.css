@@ -1,0 +1,94 @@
+*{
+    padding: 2px;
+}
+
+
+.section-one {
+    background-color:
+        black;
+    color: white;
+    text-align: center;
+    display: block;
+}
+
+.container {
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    padding-left: 300px;
+
+
+}
+
+.box-a__image,
+.box-b__image,
+.box-c__image,
+.box-d_image {
+    border: 0px;
+    width: 187px;
+    height: 187px;
+    
+
+}
+
+.box-d__image{width:249px;
+height: 187px;}
+
+.box-a__name,
+.box-b__name,
+.box-c__name,
+.box-d__name {
+    font-size: 20px;
+}
+
+.box-a__content,
+.box-b__content,
+.box-c__content,
+.box-d__content {
+    font-size: small;
+}
+
+.box-a__button,
+.box-b__button,
+.box-c__button,
+.box-d__button {
+    background-color: black;
+    color: white;
+}
+.box-a__button:hover,
+.box-b__button:hover,
+.box-c__button:hover,
+.box-d__button:hover {background-color: white;
+color:black}
+
+.box-a,
+.box-b,
+.box-c,
+.box-d {
+    border: solid black 1px;
+
+    display: inline-block;
+    vertical-align: top;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+
+}
+
+.contact__table {
+    padding-left: 650px;
+}
+
+.contact__button {
+    background-color: yellow;
+    padding left: 30px;
+    padding right: 30px;
+    width: 500px;
+    
+}
+
+.contact__button:hover{background-color: white;}
